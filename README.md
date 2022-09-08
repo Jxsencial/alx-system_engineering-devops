@@ -1,1 +1,1 @@
-Tasks 0. Where am I?
+Create a script that creates a directory called my_dir with permissions 751 in the working directory.
